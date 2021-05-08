@@ -2,6 +2,13 @@
 
 ### I'm currently a middle school student who enjoys building small projects
  - Looking to contribute to more open source projects
+ 
+#### Latest followers:
+
+ - [<img width="26px" src=https://avatars.githubusercontent.com/u/34758569?u&#61;a3bb1b8111e2120992627712183b242099f6dab8&amp;v&#61;4 />refact0r](https://github.com/refact0r)
+
+ - [<img width="26px" src=https://avatars.githubusercontent.com/u/2229278?v&#61;4 />Zhurun Zhang](https://github.com/zhurunzhang)
+
 
 ### Languages and Tools:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
