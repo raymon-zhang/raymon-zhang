@@ -1,13 +1,13 @@
 ## Hi there，I'm Raymon Zhang 👋
 
-### I'm currently a middle school student who enjoys building small projects
+### I'm currently a middle school student who enjoys learning new technologies
  - Looking to contribute to more open source projects
  
-#### Latest followers:
+#### Latest followers 👏:
 
- - 🙏 [refact0r](https://github.com/refact0r)
+ - [refact0r](https://github.com/refact0r)
 
- - 🙏 [zhurunzhang](https://github.com/zhurunzhang)
+ - [zhurunzhang](https://github.com/zhurunzhang)
 
 
 ### Languages and Tools:
