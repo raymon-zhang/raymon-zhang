@@ -1,6 +1,6 @@
-### Hi there， I'm Raymon Zhang 👋
+## Hi there，I'm Raymon Zhang 👋
 
-## I'm currently a middle school student who enjoys building small projects
+### I'm currently a middle school student who enjoys building small projects
  - Looking to contribute to more open source projects
 
 ### Languages and Tools:
