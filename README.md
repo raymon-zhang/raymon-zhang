@@ -5,9 +5,9 @@
  
 #### Latest followers:
 
- - [<img width="26px" src=https://avatars.githubusercontent.com/u/34758569?u&#61;a3bb1b8111e2120992627712183b242099f6dab8&amp;v&#61;4 />refact0r](https://github.com/refact0r)
+ - [refact0r](https://github.com/refact0r)
 
- - [<img width="26px" src=https://avatars.githubusercontent.com/u/2229278?v&#61;4 />Zhurun Zhang](https://github.com/zhurunzhang)
+ - [Zhurun Zhang](https://github.com/zhurunzhang)
 
 
 ### Languages and Tools:
