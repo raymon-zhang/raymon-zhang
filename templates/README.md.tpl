@@ -1,11 +1,11 @@
 ## Hi there，I'm Raymon Zhang 👋
 
-### I'm currently a middle school student who enjoys building small projects
+### I'm currently a middle school student who enjoys learning new technologies
  - Looking to contribute to more open source projects
  
-#### Latest followers:
+#### Latest followers 👏:
 {{range followers 3}}
- - 🙏 [{{.Login}}]({{.URL}})
+ - [{{.Login}}]({{.URL}})
 {{end}}
 
 ### Languages and Tools:
