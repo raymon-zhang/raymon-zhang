@@ -5,11 +5,11 @@
  
 #### Latest followers:
 
- - [](https://github.com/raymonrz)
+ - [raymonrz](https://github.com/raymonrz)
 
  - [refact0r](https://github.com/refact0r)
 
- - [Zhurun Zhang](https://github.com/zhurunzhang)
+ - [zhurunzhang](https://github.com/zhurunzhang)
 
 
 ### Languages and Tools:
