@@ -5,7 +5,7 @@
  
 #### Latest followers:
 {{range followers 3}}
- - [<img width="26px" src={{.AvatarURL}} />{{.Name}}]({{.URL}})
+ - [{{.Name}}]({{.URL}})
 {{end}}
 
 ### Languages and Tools:
