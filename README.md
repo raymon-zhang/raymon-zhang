@@ -1,7 +1,7 @@
 ### Hi there， I'm Raymon Zhang 👋
 
 ## I'm currently a middle school student who enjoys building small projects
- - I'm looking to contribute to more open source projects
+ - Looking to contribute to more open source projects
 
 ### Languages and Tools:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
