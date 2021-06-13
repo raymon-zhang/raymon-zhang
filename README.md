@@ -5,6 +5,8 @@
  
 #### Latest followers 👏:
 
+ - [bharadwajduggaraju](https://github.com/bharadwajduggaraju)
+
  - [refact0r](https://github.com/refact0r)
 
  - [zhurunzhang](https://github.com/zhurunzhang)
