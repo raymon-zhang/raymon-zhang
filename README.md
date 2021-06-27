@@ -5,11 +5,11 @@
  
 #### Latest followers 👏:
 
+ - [EpicGamer007](https://github.com/EpicGamer007)
+
  - [bharadwajduggaraju](https://github.com/bharadwajduggaraju)
 
  - [refact0r](https://github.com/refact0r)
-
- - [zhurunzhang](https://github.com/zhurunzhang)
 
 
 ### Languages and Tools:
