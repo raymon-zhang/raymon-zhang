@@ -5,11 +5,11 @@
  
 #### Latest followers 👏:
 
+ - [Sherlockcxk](https://github.com/Sherlockcxk)
+
  - [EpicGamer007](https://github.com/EpicGamer007)
 
  - [bharadwajduggaraju](https://github.com/bharadwajduggaraju)
-
- - [refact0r](https://github.com/refact0r)
 
 
 ### Languages and Tools:
