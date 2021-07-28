@@ -5,11 +5,11 @@
  
 #### Latest followers 👏:
 
+ - [bharadwajalt](https://github.com/bharadwajalt)
+
  - [Novusvetus](https://github.com/Novusvetus)
 
  - [Sherlockcxk](https://github.com/Sherlockcxk)
-
- - [EpicGamer007](https://github.com/EpicGamer007)
 
 
 ### Languages and Tools:
