@@ -5,11 +5,11 @@
  
 #### Latest followers 👏:
 
+ - [mmalamm](https://github.com/mmalamm)
+
  - [bharadwajalt](https://github.com/bharadwajalt)
 
  - [Sherlockcxk](https://github.com/Sherlockcxk)
-
- - [EpicGamer007](https://github.com/EpicGamer007)
 
 
 ### Languages and Tools:
