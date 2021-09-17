@@ -1,6 +1,6 @@
 ## Hi there，I'm Raymon Zhang 👋
 
-### I'm currently a hihg school student who enjoys learning new technologies
+### I'm currently a high school student who enjoys learning new technologies
  - Looking to contribute to more open source projects
  
 #### Latest followers 👏:
