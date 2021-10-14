@@ -5,11 +5,11 @@
  
 #### Latest followers 👏:
 
+ - [yunowe](https://github.com/yunowe)
+
  - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 
  - [mmalamm](https://github.com/mmalamm)
-
- - [bharadwajalt](https://github.com/bharadwajalt)
 
 
 ### Languages and Tools:
