@@ -5,11 +5,11 @@
  
 #### Latest followers 👏:
 
+ - [Eesha-Jain](https://github.com/Eesha-Jain)
+
  - [ben-6](https://github.com/ben-6)
 
  - [yunowe](https://github.com/yunowe)
-
- - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 
 
 ### Languages and Tools:
