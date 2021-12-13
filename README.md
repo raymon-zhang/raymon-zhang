@@ -1,6 +1,7 @@
 ## Hi there，I'm Raymon Zhang 👋
 
-### I'm currently a high school student who enjoys learning new technologies
+### I'm currently a high school student/developer
+ - Interested in CP and web dev
  - Looking to contribute to more open source projects
  
 #### Latest followers 👏:
