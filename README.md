@@ -15,11 +15,11 @@ I'm a high school **student**, competitive **programmer**, and web **developer**
 ### Latest followers 🙏:
 
 
+ - [KrishnaRaheja](https://github.com/KrishnaRaheja)
+
  - [zeeshanweb-official](https://github.com/zeeshanweb-official)
 
  - [mwickerson](https://github.com/mwickerson)
-
- - [Eesha-Jain](https://github.com/Eesha-Jain)
 
 
 
