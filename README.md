@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/raymon-zhang/raymon-zhang/master/Hi.gif" width="35px"> Hi there, I'm Raymon
 
-I'm a high school **student**, competitive **programmer**, and web **developer**. I've created various open source projects such as [Dynamily](https://dynamily.tk) and [react-star-rate](https://github.com/raymon-zhang/react-star-rate) and contributed to many other projects. I participate in programming competitions such as [USACO](http://usaco.org/) and [Codeforces](https://codeforces.com/profile/raymonzhang20), as well as math competitions such as the AMC/AIME. 
+I'm a high school **student**, competitive **programmer**, and web **developer**. I've created various open source projects such as [Dynamily](https://dynamily.ga) and [react-star-rate](https://github.com/raymon-zhang/react-star-rate) and contributed to many other projects. I participate in programming competitions such as [USACO](http://usaco.org/) and [Codeforces](https://codeforces.com/profile/raymonzhang20), as well as math competitions such as the AMC/AIME. 
 
 <div align="center" markdown="1">
     <a href="https://raymonzhang.is-a.dev">🌐 Pesonal Website</a> · 
